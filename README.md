@@ -26,3 +26,19 @@ L'initiative Forest Innovation est centrée sur l'utilisation de l'IA pour analy
 2. **Entraînement du modèle** : Nous avons utilisé le modèle Unet pour l'apprentissage supervisé. Le modèle a été entraîné sur des images de 512x512 pixels avec leurs masques correspondants.
 
 3. **Prédiction** : Une fois le modèle entraîné, il peut être utilisé pour prédire les masques des zones forestières dans de nouvelles images satellitaires.
+
+## Interface
+
+Pour utiliser notre modèle et explorer ses fonctionnalités, veuillez accéder à notre interface conviviale en ligne [ici](lien_vers_interface).
+
+## Échelle de mesure
+
+Notre modèle est capable d'identifier le taux de couvert forestier, la capacité d'absorption de carbone d'une zone, ainsi que le nombre d'arbres dans une zone forestière. Pour ce faire, nous avons établi une échelle de mesure basée sur les éléments dans l'image, comme expliqué précédemment.
+
+1. **Taux de couvert forestier** : Le modèle évalue le pourcentage de la zone de l'image couverte par la forêt, fournissant ainsi une mesure du couvert forestier dans la zone.
+
+2. **Capacité d'absorption de carbone** : En utilisant la mesure du taux de couvert forestier et l'échelle de mesure que nous avons définie (1,5 px/m), le modèle calcule la capacité d'absorption de carbone de la zone. Cette capacité est un indicateur clé de l'impact environnemental de la zone.
+
+3. **Nombre d'arbres** : En plus des deux mesures précédentes, le modèle est également capable de déterminer le nombre d'arbres dans la zone forestière, ce qui est essentiel pour la gestion et la conservation des forêts.
+
+Ces informations permettent une analyse approfondie de la zone forestière, contribuant ainsi à la surveillance et à la prise de décisions éclairées pour la préservation de l'environnement.
