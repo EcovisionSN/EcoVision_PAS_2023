@@ -3,7 +3,7 @@
 
 ## Équipe
 
-![Ecovision](chemin/vers/logo.png)
+![Ecovision](./dataset/logo/logo.jpeg)
 
 L'équipe Ecovision est dédiée à la préservation de l'environnement et à l'innovation technologique au Sénégal. 
 
