@@ -42,3 +42,6 @@ Notre modèle est capable d'identifier le taux de couvert forestier, la capacit�
 3. **Nombre d'arbres** : En plus des deux mesures précédentes, le modèle est également capable de déterminer le nombre d'arbres dans la zone forestière, ce qui est essentiel pour la gestion et la conservation des forêts.
 
 Ces informations permettent une analyse approfondie de la zone forestière, contribuant ainsi à la surveillance et à la prise de décisions éclairées pour la préservation de l'environnement.
+
+## NB
+> La branche main contient la version finale du prototype, et la branche dev l'ensemble des expérimentation faites pour aboutir au modèle actuel.
