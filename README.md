@@ -29,7 +29,7 @@ L'initiative Forest Innovation est centrée sur l'utilisation de l'IA pour analy
 
 ## Interface
 
-Pour utiliser notre modèle et explorer ses fonctionnalités, veuillez accéder à notre interface conviviale en ligne [ici](lien_vers_interface).
+Pour utiliser notre modèle et explorer ses fonctionnalités, veuillez accéder à notre interface conviviale en ligne [ici](https://github.com/EcovisionSN/EcoVision_Django_Interface "lien github de l'interface").
 
 ## Échelle de mesure
 
